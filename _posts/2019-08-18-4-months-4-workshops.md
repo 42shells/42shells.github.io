@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '4 месяца, 4 мастерские'
-tags: [frontpage, jekyll, blog]
+tags: [blog]
 image: '/images/posts/img_0002.jpg'
 ---
 

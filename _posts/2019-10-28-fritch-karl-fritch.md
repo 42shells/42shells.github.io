@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Фритч. Карл Фритч
-tags: [frontpage, jekyll, blog]
+tags: [blog]
 image: '/images/posts/img_0005.jpg'
 ---
 

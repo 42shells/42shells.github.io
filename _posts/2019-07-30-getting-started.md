@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Начнём
-tags: [frontpage, jekyll, blog]
+tags: [blog]
 image: '/images/posts/img_0001.jpg'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Munich Show – Mineralientage München 2019
-tags: [frontpage, jekyll, blog]
+tags: [blog]
 image: '/images/posts/img_0006.jpg'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ювелир в замке
-tags: [frontpage, jekyll, blog]
+tags: [blog]
 image: '/images/posts/img_0004.jpg'
 ---
 
