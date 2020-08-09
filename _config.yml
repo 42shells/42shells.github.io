@@ -7,14 +7,13 @@
 
 # Site settings
 title:       42shells
-email:       ''
+email:       42shells@pm.me
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://42shells.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
 instagram:   ''
 facebook:    ''
+twitter:     ''
 
 markdown:  kramdown
 permalink: pretty
