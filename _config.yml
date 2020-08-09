@@ -7,13 +7,13 @@
 
 # Site settings
 title:       42shells
-email:       42shells@pm.me
+email:       '42shells@pm.me'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://42shells.com/' # The base hostname & protocol for your site
-instagram:   ''
-facebook:    ''
-twitter:     ''
+instagram:   'https://www.instagram.com/42_shells'
+facebook:    'https://www.facebook.com/granny.smith.509'
+twitter:     'https://facebook.com'
 
 markdown:  kramdown
 permalink: pretty
