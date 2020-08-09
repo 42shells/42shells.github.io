@@ -4,8 +4,13 @@
 
 body {
   color: $color-text;
-  font-size: $font-size-base;
-  font-family: $font-base;
+
+/*font-family: $font-base;
+  font-size: $font-size-base; */
+
+  font-family: "Merriweather", sans-serif;
+  font-size:   16px;
+
   line-height: $line-height-base;
 
   -webkit-font-smoothing: antialiased;

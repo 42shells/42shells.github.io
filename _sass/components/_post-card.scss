@@ -18,6 +18,9 @@
   }
 
   &__title {
+    font-family: "Raleway", sans-serif;
+    font-size:   28pix;
+    color:       #000;
     margin-bottom: half($font-size-base);
     font-size: $font-size-base;
     font-weight: $font-weight-bold;
