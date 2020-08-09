@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ювелир в замке
+title: 'Ювелир в замке'
 tags: [blog]
 image: '/images/posts/img_0004.jpg'
 ---

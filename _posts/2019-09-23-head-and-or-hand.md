@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Голова и/или Рука
+title: 'Голова и/или Рука'
 tags: [blog]
 image: '/images/posts/img_0003.jpg'
 ---

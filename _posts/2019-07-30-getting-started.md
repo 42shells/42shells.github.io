@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Начнём
+title: 'Начнём'
 tags: [blog]
 image: '/images/posts/img_0001.jpg'
 ---

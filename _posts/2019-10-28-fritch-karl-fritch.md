@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Фритч. Карл Фритч
+title: 'Фритч. Карл Фритч'
 tags: [blog]
 image: '/images/posts/img_0005.jpg'
 ---
