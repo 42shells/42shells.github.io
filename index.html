@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+
 <div class='o-wrapper'>
   <div class='o-grid'>
     {% for post in paginator.posts %}
