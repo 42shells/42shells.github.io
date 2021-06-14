@@ -11,9 +11,9 @@ email:       '42shells@pm.me'
 description: ''
 baseurl:     ''
 url:         'https://42shells.com/'
-instagram:   'https://instagram.com/42_shells'
+instagram:   'https://instagram.com/anna.avits'
 facebook:    'https://facebook.com/granny.smith.509'
-twitter:     'https://twitter.com/42shells'
+telegram:    'https://t.me/shells42'
 
 markdown:     kramdown
 permalink:    pretty
