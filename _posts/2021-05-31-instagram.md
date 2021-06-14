@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sweat A La La Long'
+title: 'Instagram?'
 tags: [blog]
 image: '/images/posts/2021-05-31_11-09-06.jpg'
 ---
