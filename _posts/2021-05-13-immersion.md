@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 'abc'
+title: ''
 tags: [blog]
 image: '/images/posts/2021-05-13_19-06-28.jpg'
 ---
-
 
 Magnified, sanctified
 Be the holy name

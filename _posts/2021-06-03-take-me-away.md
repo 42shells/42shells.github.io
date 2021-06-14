@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'abc'
+title: 'Take me away, please!'
 tags: [blog]
 image: '/images/posts/2021-06-03_15-16-51.jpg'
 ---
-
-
-Take me away, please!
 
 Photo by @iners_negotium
 

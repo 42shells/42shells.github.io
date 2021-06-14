@@ -9,4 +9,8 @@ image: '/images/posts/2020-09-21_09-17-18.jpg'
 
 P.S.: фб и инстаграм говорит, что ню нельзя, наверное, тверкающих детей оскорбит. Моя фотография говорит, что разрез может быть высоко, а брошь низко.
 
+![Alt](/images/posts/2020-09-21_09-17-18_2.jpg)
+
+![Alt](/images/posts/2020-09-21_09-17-18_3.jpg)
+
 #brooch #cardib #femalesexuality #sexualising #cuties #feminist #taste #badtaste #kidstwerking #girlstwerking
